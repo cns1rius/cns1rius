@@ -17,4 +17,11 @@ My Gpg Key: [public key](https://cdn.bili33.top/gh/cns1rius/cns1rius/pgp_public.
 </p>
 
 # Sponsor Me
-![Sponsor Me](https://cdn.bili33.top/gh/cns1rius/cns1rius/pay.jpg)
+
+<details>
+<summary>Donate to me via Alipay or WeChat</summary>
+
+<p align="center">
+  <img src="https://cdn.bili33.top/gh/cns1rius/cns1rius/pay.jpg" alt="Alipay or WeChat Pay QR Code" height="300">
+</p>
+</details>
