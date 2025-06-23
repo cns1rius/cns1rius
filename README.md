@@ -6,6 +6,8 @@
 
 My Gpg Key: [public key](https://raw.githubusercontent.com/cns1rius/cns1rius/refs/heads/main/pgp_public.txt)
 
+[![My Skills](https://skillicons.dev/icons?i=arch,golang,python,vuejs,php,java&theme=dark)](https://skillicons.dev)
+
 # status
 
 ![Visitor Count](https://profile-counter.glitch.me/cns1rius/count.svg)
