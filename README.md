@@ -4,7 +4,7 @@
 
 [blog](https://s1rius.space/)
 
-My Gpg Key: [public key](https://github.com/cns1rius/cns1rius/pgp_public.txt)
+My Gpg Key: [public key](https://raw.githubusercontent.com/cns1rius/cns1rius/refs/heads/main/pgp_public.txt)
 
 # status
 
