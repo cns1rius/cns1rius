@@ -1,6 +1,12 @@
+# s1rius
+
 一只web狗
 
 [blog](https://s1rius.space/)
+
+My Gpg Key: [public key](https://github.com/cns1rius/cns1rius/pgp_public.txt)
+
+# status
 
 ![Visitor Count](https://profile-counter.glitch.me/cns1rius/count.svg)
 <p>
